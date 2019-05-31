@@ -18,5 +18,5 @@ Please see [CONTRIBUTING](https://github.com/benelot/awesome-biologically-plausi
 * 2016 | Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation [`arxiv`](http://arxiv.org/abs/1602.05179)
 * 2016 | Random synaptic feedback weights support error backpropagation for deep learning [`pdf`](http://www.nature.com/articles/ncomms13276)
 * 2017 | An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity [`pdf`](http://www.mitpressjournals.org/doi/10.1162/NECO_a_00949)
-* 2017 | Dendritic cortical microcircuits approximate the backpropagation algorithm
+* 2018 | Dendritic cortical microcircuits approximate the backpropagation algorithm [`arxiv`](https://arxiv.org/abs/1810.11393)
 * 2019 | Theories of Error Back - Propagation in the Brain [`pdf`](https://linkinghub.elsevier.com/retrieve/pii/S1364661319300129)
