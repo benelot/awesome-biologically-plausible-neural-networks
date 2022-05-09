@@ -8,6 +8,8 @@ Based on some of the internal journal clubs we had at the [CNS Group of Walter S
 * [BPBP JC](https://pad.riseup.net/p/F_ZO_lHFznVfFfiEpY7l-keep)
 * [BP-RNN JC](https://pad.riseup.net/p/YAK7mHrzrjSNCI3LVE_G-keep)
 
+Also have a look at [Awesome biologically motivated learning](https://github.com/jsalbert/awesome-biologically-motivated-learning) which includes some papers with biological motivation.
+
 ## Challenges for backprop to be biologically plausible
 - Local plasticity rules
 - Weight asymmetry
